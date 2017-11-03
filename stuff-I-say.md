@@ -39,3 +39,5 @@
 “The intersection of inside out and outside in thinking”
 
 “There is a philosophy of product management that says ‘just ask the customers what they want and build it,’ and an opposite ‘faster horses’ philosophy that says ‘I know better than customers what they need.’  The truth is there’s a spectrum there and you need to find your place between those two ends of it.”
+
+“Sales, marketing, product, and design at their core involve answering the same question - what is my customer struggling with and how do I alleviate that struggle”
