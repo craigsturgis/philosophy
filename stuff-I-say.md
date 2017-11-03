@@ -35,3 +35,6 @@
 “On a relatively short timeline, all companies will be technology companies”
 
 “I love you and I like you”
+
+“The intersection of inside out and outside in thinking”
+
