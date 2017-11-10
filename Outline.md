@@ -2,13 +2,14 @@
 
 ## Approach to life regardless of context
 
-- core values
+- [Core Values](https://github.com/craigsturgis/philosophy/blob/master/life/core-values.md)
 
 ## Professional
 
 ### Software Enabled Product Development
 
 #### Product Management
+- [What Product Management Does](https://github.com/craigsturgis/philosophy/blob/master/professional/software-enabled-product-development/product-management/what-product-management-does.md)
 
 #### Team Management
 
