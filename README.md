@@ -7,3 +7,5 @@ I believe that by deliberately writing down the things I believe as I have cause
 I do not claim to know everything, but want to have a place to keep myself honest and to use as a repository as I discover and evolve my thinking and positions over time.
 
 As that evolution happens, I can gain the benefits of using the medium of git revision control and pull requests to trace the path of my own thinking in a way I've found useful in other pursuits where I've spent my time.
+
+See [outline](https://github.com/craigsturgis/philosophy/blob/master/Outline.md) or GitHub is also pretty good at navigating around and reading markdown files.
