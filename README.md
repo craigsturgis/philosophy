@@ -24,5 +24,8 @@ I’m looking forward to discovering just how well developed my thoughts are on 
 
 Lastly, I’m interested to see how something like this is perceived, or if anyone aside from me even cares. A single snapshot could come off as claiming to be an authority on the topics written about, which is not my intent with this project.
 
-An ongoing investment, and the evolution of the repository’s contents over time might reveal to me whether another thing I repeat often rings true: “the more you know, the more you know you don’t know.”`
-`
+An ongoing investment, and the evolution of the repository’s contents over time might reveal to me whether another thing I repeat often rings true: “the more you know, the more you know you don’t know.”``
+
+---- 
+
+See [outline](https://github.com/craigsturgis/philosophy/blob/master/Outline.md) or GitHub is also pretty good at navigating around and reading markdown files.
