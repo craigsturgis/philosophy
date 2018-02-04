@@ -16,9 +16,9 @@ Git repos, and GitHub hosted ones especially, are transparent and concrete, but 
 
 I am committing (ha) to conducting an experiment, and to doing it in the open. 
 
-For at least 90 days from November 1st 2017, I will update something within it at least weekly in a meaningful way. 
+For at least 90 days from May 1st 2018, I will update something within it at least weekly in a meaningful way. 
 
-In February, I’ll write a retrospective and “pivot or persevere” on what I think the results are, whether I found it useful, and whether I’ll continue.
+In August, I’ll write a retrospective and “pivot or persevere” on what I think the results are, whether I found it useful, and whether I’ll continue. My first retrospective from the start of the project is [here](https://github.com/craigsturgis/philosophy/blob/master/project-log.md). 
 
 I’m looking forward to discovering just how well developed my thoughts are on the topics I feel strongly about. I’m also curious about what I say without thinking too hard that might change upon examination.
 
