@@ -35,3 +35,11 @@ Your default demeanor can sometimes be intense, short, and forceful.
 Work to counteract that and to be kind in small acts and in larger effect. 
 
 You aspire to become known more for kindness vs. the intensity and rigidness that can come with having heavily considered principles.
+
+## Act in Good Faith
+
+It is sometimes easier to act in bad faith to be effective towards whatever ends are desired. 
+
+Even if it's harder, be open about what you believe and fight for it even when working within a system that does not reward the act of doing so. 
+
+Work to change or remove yourself from environemnts that can't be changed to reward good faith.
