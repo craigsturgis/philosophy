@@ -1,45 +1,41 @@
 # Core Values
 
-## Be Thoughtful.
+When I think of core values, I think about the articulated ideas that explain how people live their life, and show what they aspire to. These are mine. 
 
-Regularly take time and mental energy to reflect and consider your actions. 
-Consider their impact on you, and the people you interact with every day as well as broader groups and societies as a whole. 
+## Every day is a great day.
 
-Seek out perspectives you don’t understand due to who you are and your life experience thus far. 
+We only get so many days, and it’s easy to live for some imagined future when things will be great. 
 
-Develop explicit principles and strong opinions, weakly held. Reflect on which of these have changed or evolved and should be restated.
+You don’t control everything that happens to and around you, but you do control your mindset, reaction, and whether you do your best to make each day a great one for yourself and others. 
 
-Consider what you want your actions to be in light of this, the life you want to live, and world you want to live in.
+## Build and be open to love and trust.
 
-## Be Intentional.
+Days can only be so great without the love and shared experience of people outside of yourself. Make a conscious effort to build love and the trust that makes all relationships stronger.
 
-Your mind wants to put what you do on auto-pilot. 
+In addition, work to be more open to receive the love and trust you cultivate, even though this is often harder for you than giving it.
 
-Take your conclusions from being thoughtful and work to adjust systems and habits for yourself and nudge those around you towards a better place. 
+## Always be learning,  applying, and sharing. Form strong opinions, loosely held.
 
-Work to incorporate the experience and empower the expertise of others different from you to complement what you can do.
+The primary intrinsic motivation you have is to learn, and apply that learning. 
 
-Acknowledge that entropy and habit and everyone’s monkey brains and biases, including yours, are always working to knock it all back to where things are on auto-pilot. Work to counteract this.
+Always remember to feed that thirst for knowledge, apply the results, and share it with others. 
 
+Support strong opinions, loosely held: have a point of view that is unreserved but be humble and open to learning from others with conflicting opinions. 
 
-## Be Effective.
+Be especially open to those with different backgrounds and experiences to make sure you’re learning as much as you can and stay aware of biases you can’t ever completely offset.
 
-You have a tendency to work to be efficient, but it can sometimes lead to more energy spent doing things that are urgent but not important. 
+## Be thoughtful, intentional, effective, and kind
 
-Use your thoughtfulness and intentionality to make sure you are making the most progress as realistically possible towards the end state you imagined using the habits and systems you are deliberately following.
+Regularly take time and energy to reflect and consider your actions and their impact. Work to know yourself and the landscape you inhabit.
 
-## Be Kind
+Plan specifically how you want to act and create systems and habits to support those actions. Fight going through life on “auto-pilot”, knowing that your monkey brain is fighting to put you there at all times.
 
-Your default demeanor can sometimes be intense, short, and forceful. 
+Always gauge whether your actions are having the desired impact and outcome vs. just optimizing for what feels efficient.
 
-Work to counteract that and to be kind in small acts and in larger effect. 
+Through it all, work to be kind to others - your default demeanor can sometimes be intense, short, and forceful. Work to counteract that and to be kind in small acts and in larger effect.
 
-You aspire to become known more for kindness vs. the intensity and rigidness that can come with having heavily considered principles.
+## Act in good faith
 
-## Act in Good Faith
+Take action in ways that openly reflect your core beliefs and values - hiding them can be an easier path to the results you want but in a way that is hollow and unsatisfying. 
 
-It is sometimes easier to act in bad faith to be effective towards whatever ends are desired. 
-
-Even if it's harder, be open about what you believe and fight for it even when working within a system that does not reward the act of doing so. 
-
-Work to change or remove yourself from environemnts that can't be changed to reward good faith.
+The world is full of people who act in bad faith, but the world you want to live in is one in which that is acknowledged but good faith is supported and rewarded anyway.
