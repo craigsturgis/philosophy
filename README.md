@@ -16,16 +16,16 @@ Git repos, and GitHub hosted ones especially, are transparent and concrete, but 
 
 I am committing (ha) to conducting an experiment, and to doing it in the open. 
 
-For at least 90 days from May 1st 2018, I will update something within it at least weekly in a meaningful way. 
+In late 2017, I committed to a 90 window for this experiment - and it didn’t stick. I rationalize that as my website where I wanted to post about this content was not in posting shape. I also started a new job right after that which ate into almost all of my mental energy.
 
-In August, I’ll write a retrospective and “pivot or persevere” on what I think the results are, whether I found it useful, and whether I’ll continue. My first retrospective from the start of the project is [here](https://github.com/craigsturgis/philosophy/blob/master/project-log.md). 
+I still am planning to focus on this experiment again, especially since at the time of this writing my [website  ](https://craigsturgis.com)has been resurrected.
 
-I’m looking forward to discovering just how well developed my thoughts are on the topics I feel strongly about. I’m also curious about what I say without thinking too hard that might change upon examination.
+I’m looking forward to discovering just how well developed my thoughts are on the topics I feel strongly about over time. I’m also curious about what I say without thinking too hard that might change upon examination.
 
 Lastly, I’m interested to see how something like this is perceived, or if anyone aside from me even cares. A single snapshot could come off as claiming to be an authority on the topics written about, which is not my intent with this project.
 
-An ongoing investment, and the evolution of the repository’s contents over time might reveal to me whether another thing I repeat often rings true: “the more you know, the more you know you don’t know.”``
-
+An ongoing investment, and the evolution of the repository’s contents over time might reveal to me whether another thing I repeat often rings true: “the more you know, the more you know you don’t know.”`
+`
 ---- 
 
 See [outline](https://github.com/craigsturgis/philosophy/blob/master/Outline.md) or GitHub is also pretty good at navigating around and reading markdown files.
