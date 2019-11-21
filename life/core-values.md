@@ -8,7 +8,7 @@ They have [evolved](https://github.com/craigsturgis/philosophy/commits/master/li
 
 We only get so many days, and it’s tempting to live for some imagined future when things will be great. 
 
-I can’t control everything that happens to me and around me, but I can control my mindset, reaction, and whether I _do my best_[^1](#) to make each day a great one for myself and others. 
+I can’t control everything that happens to me and around me, but I can control my mindset, reaction, and whether I _do my best_[^1] to make each day a great one for myself and others. 
 
 ## Build and be open to love and trust.
 
@@ -43,5 +43,6 @@ I do my best to take action in ways that openly reflect my core beliefs and valu
 The world is full of people who act in bad faith, but the world I want to live in is one in which that is acknowledged but good faith is supported and rewarded. I want to walk the path I want others to walk.
 
 ---- 
-[^1](https://amzn.to/349xeD5 ""Do my best" is a key feature of active questions, a concept I learned from Marshall Goldsmith's "Triggers""): "Do my best" is a key feature of active questions, a concept I learned from Marshall Goldsmith's ["Triggers”](https://amzn.to/349xeD5)* 
-(This post contains an [affiliate link](https://craigsturgis.com/affiliate-links).)
+[^1]: "Do my best" is a key feature of active questions, a concept I learned from Marshall Goldsmith's ["Triggers”](https://amzn.to/349xeD5)
+
+(This post contains an [affiliate link](https://craigsturgis.com/affiliate-links).) 
